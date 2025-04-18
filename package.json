@@ -1,0 +1,24 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/codingwithsayantan/simple-express-app#readme",
+  "bugs": {
+    "url": "https://github.com/codingwithsayantan/simple-express-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithsayantan/simple-express-app.git"
+  },
+  "license": "ISC",
+  "author": "codingwithsayantan",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
